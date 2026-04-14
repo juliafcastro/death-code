@@ -3,9 +3,13 @@
   "publisher": "faverodev",
   "displayName": "Death Code",
   "description": "Dark anime-inspired VS Code themes based on iconic characters, designed for a clean and immersive coding experience.",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "icon": "assets/icon.png",
   "license": "MIT",
+  "homepage": "https://github.com/juliafcastro/death-code",
+  "bugs": {
+    "url": "https://github.com/juliafcastro/death-code/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/juliafcastro/death-code"

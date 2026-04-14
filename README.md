@@ -1,17 +1,27 @@
-# Death Code
 
-A collection of VS Code themes inspired by anime characters and aesthetics.
+![preview-1](./assets/DeathCode.png)
 
----
+<h1 align="center">Death Code</h1>
 
-## About
+<p align="center">
+  A collection of VS Code themes inspired by anime characters and aesthetics.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-0.0.3-purple" />
+  <img src="https://img.shields.io/badge/VS%20Code-compatible-blue" />
+  <img src="https://img.shields.io/badge/marketplace-visual--studio-green" />
+  <img src="https://img.shields.io/badge/theme-dark-black" />
+</p>
+
+## 📓 About 
 
 Death Code is a theme pack designed for developers who enjoy clean, modern, and visually engaging interfaces inspired by iconic anime characters.
 
 Despite the name, this extension is not limited to Death Note.  
 The name is a tribute, but the project includes themes based on multiple anime characters.
 
-### Current themes include:
+### 📓 Current themes include:
 - Itachi  
 - Gojo  
 - Zenitsu  
@@ -22,7 +32,7 @@ More themes are coming soon, along with continuous improvements to existing ones
 
 ---
 
-## Preview
+## 📓 Preview
 
 ### Theme showcase
 ![preview-2](./assets/Preview2.png)
@@ -32,7 +42,7 @@ More themes are coming soon, along with continuous improvements to existing ones
 
 ---
 
-## Features
+## 📓 Features
 
 - Dark themes with carefully selected color palettes  
 - Inspired by anime characters and aesthetics  
@@ -41,7 +51,7 @@ More themes are coming soon, along with continuous improvements to existing ones
 
 ---
 
-## Installation
+## 📓 Installation
 
 ### From VS Code Marketplace
 
@@ -74,7 +84,7 @@ Alternative:
 
 ---
 
-## Roadmap
+## 📓 Roadmap
 
 - New anime-inspired themes  
 - Refinement of existing palettes  
@@ -82,18 +92,18 @@ Alternative:
 
 ---
 
-## Tags
+## 📓 Tags
 
 vscode, theme, dark-theme, anime, color-theme, developer-tools, itachi, gojo, zenitsu, mitsuri, uzui
 
 ---
 
-## Notes
+## 📓 Notes
 
 This project is a work in progress and will continue evolving with new ideas and improvements.
 
 ---
 
-## License
+## 📓 License
 
 MIT
