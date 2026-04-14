@@ -1,0 +1,48 @@
+{
+  "name": "lazy-dev",
+  "publisher": "faverodev",
+  "displayName": "Death Code",
+  "description": "Dark anime-inspired VS Code themes based on iconic characters, designed for a clean and immersive coding experience.",
+  "version": "0.0.3",
+  "icon": "assets/icon.png",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliafcastro/death-code"
+  },
+  "engines": {
+    "vscode": "^1.115.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Death Code Zenitsu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zenitsu-theme.json"
+      },
+      {
+        "label": "Death Code Uzui",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tengen-uzui-theme.json"
+      },
+      {
+        "label": "Death Code Mitsuri",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mitsuri-theme.json"
+      },
+      {
+        "label": "Death Code Gojo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/satoru-gojo-theme.json"
+      },
+      {
+        "label": "Death Code Itachi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/itachi-theme.json"
+      }
+    ]
+  }
+}
